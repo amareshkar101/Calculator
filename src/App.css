@@ -1,0 +1,12 @@
+:root {
+  overflow: hidden;
+  background-color: rgb(255, 156, 121);
+}
+.App {
+  max-width: 400px;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  padding-top: 4%;
+  background-attachment: fixed;
+}
